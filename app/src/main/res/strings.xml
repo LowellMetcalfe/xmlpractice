@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Library App</string>
+    <!--Other string resources also defined in this file… -->
+    <!--Homescreen Strings-->
+    <string name="buttonText">Click for Suggestion or Reservation</string>
+    <string name="ScanDescription">Click the picture bellow of a QR code to start scanning, you will need the book with you.</string>
+
+    <!--Suggest reserve strings-->
+    <string name="radioSuggest">Suggest</string>
+    <string name="radioReserve">Reserve</string>
+    <string name="descriptionText">Here you can suggest a book to be bought for the library or one you wish to reserve to pick up later. Please tick one.</string>
+    <string name="FullNameHint">Type your Full name here</string>
+    <string name="TitleHint">Type the Title of the book here</string>
+    <string name="AuthorNameHint">Type the Authors name here</string>
+    <string name="NotesHint">You may type any extra notes here</string>
+
+    <string name="box1">Suggest</string>
+    <string name="box2">Reserve</string>
+
+    <string name="year7">Year 7</string>
+    <string name="year8">Year 8</string>
+    <string name="year9">Year 9</string>
+    <string name="year10">Year 10</string>
+    <string name="year11">Year 11</string>
+    <string name="year12">Year 12</string>
+    <string name="year13">Year 13</string>
+    <string name="year">Pick which year youre in</string>
+
+    <string name="ButtonSendEnquiry">Click to send</string>
+
+    <!--displaybook strings-->
+    <string name="findButton">FIND</string>
+    <string name="TitleHolder">Title:</string>
+    <string name="AuthorHolder">Author:</string>
+    <string name="GenreHolder">Genre:</string>
+    <string name="RatingHolder">Rating:</string>
+    <string name="DescriptionHolder">Description:</string>
+    <string name="suggestedbooks">Other Suggested Books:        <i>Scroll</i></string>
+    <!--Find_Book Strings-->
+    <string name="findBookCaption">Here you can find where the book is in the room, the shelf that the book is located on is highlighted.</string>
+</resources>
